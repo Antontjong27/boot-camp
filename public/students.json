@@ -507,5 +507,13 @@
     "additionalData": {
         "favoriteLanguage": "Ruby"
     }
-  }
+  },
+  {
+    "name": "Anton Wijaya Tjong",
+    "nim": "2602185210",
+    "studyProgram": "Computer Science",
+    "additionalData": {
+        "favoriteLanguage": "JavaScript"
+    }
+  },
 ]
